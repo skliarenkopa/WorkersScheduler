@@ -12,7 +12,7 @@ namespace WorkersScheduler
         const int workers_number = 5;
         const int workers_per_day = 3;
         const int max_working_days = 9;
-        const int population_size = 40;
+        const int population_size = 100;
         const int generations_number = 100;
         const int overwork_penalty = 50;
         const int mutation_probability = 10;
